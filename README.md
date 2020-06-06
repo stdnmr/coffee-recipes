@@ -8,8 +8,7 @@ This is mainly meant as a resource for myself. I try to keep the recipes as simp
 
 
 - [Aeropress](Aeropress.md)
-- Pour Over (in preperation)
+- [Pour Over](PourOver.md)
 - French Press (in preperation)
 - Cold Brew (in preperation)
 - Vacuum Pot (in preperation)
-- Shakerato (in preperation)
