@@ -1,10 +1,8 @@
 # My coffee recipes
 
-A collection of my coffee recipes as markdown files.
+A collection of coffee recipes as markdown files. This is mainly meant as a resource for myself.
 
-This is mainly meant as a resource for myself. I try to keep the recipes as simple as possible. 
-
-The recipes are not developed by myself, but adopted or combined from recipes I found online. If it is mere transcirption of a recipe, the recipe links are given.
+The recipes are adopted or combined from recipes found online. If it is mere transcirption, the recipe link is givn.
 
 
 ## Recipes
