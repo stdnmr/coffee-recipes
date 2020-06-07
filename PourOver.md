@@ -10,7 +10,7 @@ The basic steps are bloom with a bit of water, than pour the rest of the water a
 
 ## Steps
 1. Start your timer and **pour in a bit of water (2-3x the weight of coffee)**. Fully saturate the beans by **swirling or stiring** your coffee. Wait until the timer hits **30s**.
-2. Start to pour in the rest of the water, slow down a bit over time. Aim to **finish the pour at 1:30**. To know down any coffee particles stuck to the the wall you can **stir** along the wall of the filter. To achieve a flat coffee bed for the draw down, **swirl** the filter around.
+2. Start to pour in the rest of the water, slow down a bit over time. Aim to **finish the pour at 1:30**. To knock down any coffee particles stuck to the the wall you can **stir** along the wall of the filter. To achieve a flat coffee bed for the draw down, **swirl** the filter around.
 3. The **draw down** should end at **around 3 minutes**.
 
 
