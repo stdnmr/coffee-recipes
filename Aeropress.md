@@ -6,7 +6,7 @@ Use 1 Aeropress scoop (about 15 grams) of medium/fine-ground coffee. Adjust the 
 
 ### Steps
 
-Time  |   Action
+Elapsed Time  |   Action
 ------|---------
 0 s   | Pour in hot water up to top, but so that you can still stir without spilling.
 5 s   | Stir until all grounds are wet.
