@@ -2,7 +2,7 @@
 
 A collection of coffee recipes as markdown files. This is mainly meant as a resource for myself.
 
-The recipes are adopted or combined from recipes found online. If it is mere transcirption, the recipe link is givn.
+The recipes are adopted or combined from recipes found online. If it is mere transcirption, the recipe link is given.
 
 
 ## Recipes
